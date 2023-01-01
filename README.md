@@ -6,8 +6,8 @@ public class ATM_Progaram
 {
 			double amount=100000.00;
 			String name="MR. K.N.U.Ranasinghe";
-			String ac="170200120060846";
-			String id="200030400807";
+			String ac="1702121354545446";
+			String id="200045455207";
 			int choise;
 			double newprice;
 			
